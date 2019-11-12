@@ -1,6 +1,6 @@
 from deepnet.deepclassify import SkiNet
 
-obj = SkiNet(img="dog3.jpg")
+obj = SkiNet(img="dog2.jpg")
 
 obj.evalute()
 
