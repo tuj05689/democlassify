@@ -20,7 +20,7 @@ class SkiNet():
             )])
 
     def getName(self):
-        return self.classfyname
+        return self.classifyname
 
     def getPercentage(self):
         return self.percentage
