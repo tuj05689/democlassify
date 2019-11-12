@@ -8,7 +8,7 @@ setup(
     license='',
     author='Adam',
     author_email='',
-    description='demo'
+    description='demo',
     install_requires=['torch', 'torch-vision'],
     package_data={'data':['*.txt']}
 )
